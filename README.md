@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">👋 Hi there, I'm Levi-Phong!</h1>
 
-<!--
-**phongilm20/phongilm20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=💻+Java+%7C+Python+%7C+C%2B%2B;🚀+Passionate+about+coding+and+learning!" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <b>✨ Always learning, building, and improving ✨</b>
+</p>
+
+---
+
+<h3 align="center">💻 About Me</h3>
+
+<p align="center">
+I'm a passionate developer who enjoys learning and building with <b>Java</b>, <b>Python</b>, and <b>C++</b>.<br>
+I love solving problems, exploring new technologies, and continuously improving my skills.
+</p>
+
+---
+
+<h3 align="center">📫 Connect With Me</h3>
+
+<p align="center">
+  📧 <a href="mailto:phongilm20@gmail.com">phongilm20@gmail.com</a><br>
+  💼 <a href="https://www.linkedin.com/in/levinguyen49">linkedin.com/in/levinguyen49</a><br>
+  🧑‍💻 <a href="https://github.com/phongilm20">github.com/phongilm20</a>
+</p>
+
+---
+
+<p align="center">⭐ <i>“Keep coding, keep growing.”</i> ⭐</p>
