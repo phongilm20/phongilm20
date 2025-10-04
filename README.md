@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-  <b>✨ Always learning, building, and improving ✨</b>
 </p>
 
 ---
