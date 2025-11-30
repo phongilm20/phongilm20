@@ -1,20 +1,34 @@
 <h1 align="center">👨‍💻 Levi-Phong | AI & Systems Engineer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=🤖+AI+%7C+Machine+Learning+%7C+Computer+Vision;🧠+Focusing+on+mastering+the+essentials+of+CS!" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,sklearn,pytorch,numpy" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=🤖+AI+%7C+Machine+Learning+%7C+Robotics;🧠+Computer+Vision+%7C+Deep+Learning;🚀+Building+AI+Systems+from+Theory+to+Deployment" alt="Typing SVG" />
 </p>
 
 ---
+
+<h3 align="center">🛠️ Tech Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,pytorch,sklearn" /><br>
+</p>
+
+---
+
+<h3 align="center">📚 Current Focus</h3>
+
+<p align="center">
+  🔹 Deep Learning (PyTorch)<br>
+  🔹 ML Systems & Experiments (MSE, MLP vs Linear Regression)<br>
+</p>
+
+---
+
 <h3 align="center">📫 Connect With Me</h3>
 
 <p align="center">
-  📧 <a href="mailto:phongilm20@gmail.com">phongilm20@gmail.com</a><br>
-  💼 <a href="https://www.linkedin.com/in/levinguyen49">linkedin.com/in/levinguyen49</a><br>
-  🧑‍💻 <a href="https://github.com/phongilm20">github.com/phongilm20</a>
+  📧 <a href="mailto:phongilm20@gmail.com">phongilm20@gmail.com</a><br>
+  💼 <a href="https://www.linkedin.com/in/levinguyen49">linkedin.com/in/levinguyen49</a><br>
+  🧑‍💻 <a href="https://github.com/phongilm20">github.com/phongilm20</a>
 </p>
 
 ---
