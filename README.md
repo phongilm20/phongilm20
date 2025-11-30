@@ -12,14 +12,6 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,java,html,pytorch,sklearn" /><br>
 </p>
 
----
-
-<h3 align="center">📚 Current Focus</h3>
-
-<p align="center">
-  🔹 Deep Learning (PyTorch)<br>
-  🔹 ML Systems & Experiments (MSE, MLP vs Linear Regression)<br>
-</p>
 
 ---
 
