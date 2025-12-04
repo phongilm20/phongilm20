@@ -19,9 +19,9 @@
 - Multimodal Learning
 ---
 
-<h3 align="center">📫 Connect With Me</h3>
+<h3>📫 Connect With Me</h3>
 
-<p align="center">
+<p>
   📧 <a href="mailto:phongilm20@gmail.com">phongilm20@gmail.com</a><br>
   💼 <a href="https://www.linkedin.com/in/levinguyen49">linkedin.com/in/levinguyen49</a><br>
   🧑‍💻 <a href="https://github.com/phongilm20">github.com/phongilm20</a>
