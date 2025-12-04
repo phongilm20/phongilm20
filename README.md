@@ -12,7 +12,11 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,java,html,pytorch,sklearn" /><br>
 </p>
 
-
+---
+🔬 Research fields
+- Natural Language Processing (NLP)
+- Data Science
+- Multimodal Learning
 ---
 
 <h3 align="center">📫 Connect With Me</h3>
