@@ -1,32 +1,39 @@
-<h1 align="center">👨‍💻 Levi-Phong | AI & Systems Engineer</h1>
+<h1 align="center">Levi-Phong Nguyen</h1>
+<h3 align="center">Machine Learning & AI Engineer</h3>
+
+---
+
+<h3 align="center">Tech Stack</h3>
+
+<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <!-- Programming -->
+  <img src="https://skillicons.dev/icons?i=python" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=java" width="60" height="60" />
+
+  <!-- Web & Database -->
+  <img src="https://skillicons.dev/icons?i=html" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=css" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" />
+
+  <!-- Machine Learning -->
+  <img src="https://skillicons.dev/icons?i=pytorch" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=sklearn" width="60" height="60" />
+</p>
+
+---
+
+<h3 align="center">Contact</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=🤖+AI+%7C+Machine+Learning+%7C+Robotics;🧠+Computer+Vision+%7C+Deep+Learning;🚀+Building+AI+Systems+from+Theory+to+Deployment" alt="Typing SVG" />
+  Email: phongilm20@gmail.com<br>
+  LinkedIn: <a href="https://www.linkedin.com/in/levinguyen49">linkedin.com/in/levinguyen49</a><br>
+  GitHub: <a href="https://github.com/phongilm20">github.com/phongilm20</a>
 </p>
 
 ---
-
-<h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,pytorch,sklearn" /><br>
+  <i>“To truly master a subject, you must understand the essence, not just the execution.”</i>
 </p>
-
----
-🔬 Research fields
-- Natural Language Processing (NLP)
-- Data Science
-- Multimodal Learning
----
-
-<h3>📫 Connect With Me</h3>
-
-<p>
-  📧 <a href="mailto:phongilm20@gmail.com">phongilm20@gmail.com</a><br>
-  💼 <a href="https://www.linkedin.com/in/levinguyen49">linkedin.com/in/levinguyen49</a><br>
-  🧑‍💻 <a href="https://github.com/phongilm20">github.com/phongilm20</a>
-</p>
-
----
-
-<p align="center"><i>“To truly master a subject, you must understand the essence, not just the execution.”</i></p>
