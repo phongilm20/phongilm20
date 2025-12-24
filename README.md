@@ -1,5 +1,4 @@
 <h1 align="center">Levi-Phong Nguyen</h1>
----
 
 <h3 align="center">Tech Stack</h3>
 
